@@ -7,7 +7,7 @@ We're building an open source platform to empower developers with edge computing
 ### Official website & references
 - [Official Website](https://www.edgee.cloud)
 - [Official Documentation](https://www.edgee.cloud/docs/)
-- [Contribution guidelines](./CONTRIBUTING.md)
+- [Contribution guidelines](../CONTRIBUTING.md)
 
 ### Contacts
 - [LinkedIn](https://www.linkedin.com/company/edgee-cloud/)
