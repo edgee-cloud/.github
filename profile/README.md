@@ -13,4 +13,4 @@ We’re building an **edge-native AI Gateway**: a unified, OpenAI-compatible API
 ### Contact
 - [LinkedIn](https://www.linkedin.com/company/edgee-cloud/)
 - [X (Twitter)](https://x.com/edgee_cloud)
-- [Slack](https://www.edgee.cloud/slack)
+- [Discord](https://www.edgee.cloud/discord)
